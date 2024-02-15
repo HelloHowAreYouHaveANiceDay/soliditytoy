@@ -11,3 +11,10 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+
+## Docs
+
+[solidity](https://docs.soliditylang.org/en/v0.8.24/)
+[ethers](https://docs.ethers.org/v6/)
+[hardhat](https://hardhat.org/getting-started/)
+
